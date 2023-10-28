@@ -1,7 +1,6 @@
 import { ContactsUl, Contactsli, DelBtn } from './ContactList.styled'
 
 const ContactList = ({contacts, onDeleteContact }) => {
-  
   return (
     <>
       <ContactsUl>
